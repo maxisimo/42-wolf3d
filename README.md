@@ -13,4 +13,9 @@ Once you have achieved this goal, textures, weapons, enemies, secrets, sounds, m
 ![alt tag](https://user-images.githubusercontent.com/34480775/52215588-a29d4f00-2894-11e9-9156-5dcd07e72bed.png)
 ![alt tag](https://user-images.githubusercontent.com/34480775/52215903-57d00700-2895-11e9-9c03-daa1fc51954d.png)
 
+# Run the project
+make
+ 
+./wolf3d <file.w3d>
+
 # Note : 125/100
